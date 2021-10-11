@@ -8,7 +8,7 @@
 
 - 🕺🏼 Live Music 
 - 🏋️ Going to the gym
-- 🏄🏼 Surfing or Skiing
+- 🏄🏼 Surfing and Skiing
 - 🌮 Tacos with Friends 
 
 ### Music is One of the Largest influences and aids in my life. Some of my favorite artists are, 
