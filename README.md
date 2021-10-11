@@ -7,7 +7,6 @@
 ### Outside of coding I enjoy:
 
 - 🕺🏼 Live Music 
-- 🏋️ Going to the gym
 - 🏄🏼 Surfing and Skiing
 - 🌮 Tacos with Friends 
 
