@@ -28,5 +28,8 @@
  <code><img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> 
  <code><img height="60" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
  <code><img height="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"></code>
 
 ## Connect with me on <a href="https://www.linkedin.com/in/michael-harfenist-blue/">LinkedIn!</a>
