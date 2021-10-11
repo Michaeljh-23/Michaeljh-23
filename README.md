@@ -1,5 +1,3 @@
-<code><img src="/header.png"> </code>
-
 # 👋🏼 My names Michael and I'm a....
 
 - 📓 CofC Graduate 
