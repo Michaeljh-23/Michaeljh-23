@@ -13,7 +13,6 @@
 ### Music is One of the Largest influences and aids in my life. Some of my favorite artists are, 
 
 - 🇦🇺 Tash Sultana
-- 🐻 Kanye West
 - 🌶 Red Hot Chile Peppers
 
 ### Languages and Tools:
