@@ -1,33 +1,61 @@
-# 👋🏼 My names Michael and I'm a....
+# Hey, I'm Michael 👋
 
-- 📓 CofC Graduate 
-- 🎸 Former entertainment events cordinator
-- 🧑‍💻 Full Stack Software Engineer
+I'm an MBA candidate at George Washington University and a former full-stack software engineer but very glad to be getting back to building.
 
-### Outside of coding I enjoy:
+I previously worked professionally as a software engineer at Data Protocol and REI Systems, building full-stack applications with React, TypeScript, Node.js, Java, and SQL.
 
-- 🕺🏼 Live Music 
-- 🏄🏼 Surfing and Skiing
-- 🌮 Tacos with Friends 
+After stepping away from software for a bit, I'm back in the code — rebuilding my skills, experimenting with new ideas, and making projects that I actually want to use.
 
-### Music is One of the Largest influences and aids in my life. Some of my favorite artists are, 
+## 🛠 What I'm Building
 
-- 🇦🇺 Tash Sultana
-- 🌶 Red Hot Chile Peppers
+### 📓 JournalEntry Lab
+An accounting workflow tool designed to make journal entries and recurring accounting treatments easier to build and understand.
 
-### Languages and Tools:
- 
- <code><img height="60" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
- <code><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>            
- <code><img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
- <code><img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> 
- <code><img height="60" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
- <code><img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- <code><img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> 
- <code><img height="60" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
- <code><img height="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"></code>
+Currently working on:
+- Journal entry creation and validation
+- Debit / credit balancing logic
+- Scheduled and recurring entries
+- Prepaids, accruals, and depreciation workflows
+- Making accounting logic feel intuitive instead of painful
 
-## Connect with me on <a href="https://www.linkedin.com/in/michael-harfenist-blue/">LinkedIn!</a>
+### 🎣 Tiny Fishing
+A small pixel-style fishing game built with React and HTML Canvas. Designed to help you want to stay at the computer when working :) 
+
+Currently working on:
+- Fish movement and behavior
+- Tension-based fishing mechanics
+- Difficulty and timing systems
+- Pixel art and UI
+- Game state and progression
+
+## 💻 Tech
+
+**Frontend**
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Canvas
+
+**Backend**
+Node.js · Express · Java · REST APIs
+
+**Data**
+PostgreSQL · MySQL · MongoDB
+
+**Tools**
+Git · GitHub · Jest · Mocha · AWS · Jenkins
+
+## 🧠 A Little About Me
+
+My background is a bit unconventional.
+
+Before software engineering, I spent years working in hospitality, live music, and events. I later went through Hack Reactor, became a full-stack engineer, and worked in both startup and government software environments.
+
+I'm currently completing my MBA at George Washington University while getting serious about software development again.
+
+Outside of code, I'm usually listening to music, watching basketball, playing golf, cooking, or working on whatever random project has my attention that week.
+
+## 🎵 Currently Listening To
+
+Metric · Le Tigre · Chicano Batman · Red Hot Chili Peppers
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/michael-harfenist-blue/)
